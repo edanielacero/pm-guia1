@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Colores</string>
+    <string name ="btn-red">Red</string>
+    <string name ="btn-yellow">Yellow</string>
 </resources>
